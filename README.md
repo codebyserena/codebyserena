@@ -15,8 +15,8 @@ Machine Learning • Explainable AI • NLP • Fairness-aware Systems
 **FairRecourse**  
 ML dashboard for model comparison, fairness analysis, and counterfactual recourse in credit risk.
 
-**Clover**  
-AI research agent for paper retrieval, analysis, and contradiction detection.
+**medical-rag-multiple-sclerosis**  
+A Retrieval-Augmented Generation (RAG) pipeline for biomedical question answering over multiple sclerosis (MS) literature, integrating semantic search (FAISS), lexical retrieval (BM25), CrossEncoder reranking, and LLM-based response generation using Llama3.
 
 **Anti-AI CAPTCHA**  
 Adaptive security system using behavioural signals and bot resistance techniques.
