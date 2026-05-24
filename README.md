@@ -1,16 +1,35 @@
-## Hi there 👋
+# Serena Mendanha
 
-<!--
-**codebyserena/codebyserena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Computer Science (Data Science) @ Trinity College Dublin  
+ML Researcher | Data Scientist
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+Machine Learning • Explainable AI • NLP • Fairness-aware Systems
+
+---
+
+## Projects
+
+**FairRecourse**  
+ML dashboard for model comparison, fairness analysis, and counterfactual recourse in credit risk.
+
+**Clover**  
+AI research agent for paper retrieval, analysis, and contradiction detection.
+
+**Anti-AI CAPTCHA**  
+Adaptive security system using behavioural signals and bot resistance techniques.
+
+**ML vs DL Disease Prediction**  
+Comparative study of ML and DL models for medical prediction tasks.
+
+---
+
+## Stack
+Python • PyTorch • TensorFlow • Scikit-learn • NLP • Flask • SQL
+
+---
+
+## Contact
+https://www.linkedin.com/in/serena-mendanha/• https://serena-mendanha-portfolio.netlify.app
